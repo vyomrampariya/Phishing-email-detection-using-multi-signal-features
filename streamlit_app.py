@@ -14,10 +14,7 @@ from phishing_engine import WordPoolModel, analyze_email
 st.set_page_config(page_title="VYOM | Phishing Email Analysis", page_icon=":material/shield:", layout="wide")
 st.title("Email phishing assessment", anchor=False)
 st.caption("One assessment across email text, sender and headers, sender domain, URLs, and static website signals.")
-st.warning(
-    "This hosted app processes submitted email. Use sanitized samples unless you trust the server handling confidential email. Scores are research heuristics, not calibrated probabilities.",
-    title="Privacy and score limitations",
-)
+
 
 with st.sidebar:
     st.subheader("Analysis flow")
@@ -27,7 +24,7 @@ with st.sidebar:
         width="stretch",
         alt="Research flowchart for the six-phase phishing email analysis pipeline",
     )
-    st.caption("Website retrieval is disabled. The app does not visit links, execute page scripts, submit forms, or open attachments.")
+    
 
 mode = st.segmented_control("Email input", ["Paste email", "Upload .eml or .txt"], default="Paste email")
 raw_email = ""
@@ -80,8 +77,7 @@ if result:
     elif result["classification"] == "insufficient_evidence":
         st.warning("There was not enough successfully evaluated evidence to score this email.")
     else:
-        st.info("Low risk review result. This is not a guarantee that the message is safe.")
-
+        
     st.subheader("Component results")
     for name, component in result["components"].items():
         status = component["status"].replace("_", " ").title()
@@ -100,13 +96,7 @@ if result:
         st.markdown("**URLs found**")
         for url in result["extracted_urls"]:
             st.code(url, language=None)
-    if result["warnings"]:
-        st.markdown("**Warnings**")
-        for warning in result["warnings"]:
-            st.write(f"- {warning}")
-    with st.expander("Limitations"):
-        for limitation in result["limitations"]:
-            st.write(f"- {limitation}")
+    
     st.download_button(
         "Download assessment JSON",
         json.dumps(result, indent=2, ensure_ascii=False),
