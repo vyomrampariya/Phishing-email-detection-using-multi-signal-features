@@ -15,7 +15,6 @@ st.set_page_config(page_title="VYOM | Phishing Email Analysis", page_icon=":mate
 st.title("Email phishing assessment", anchor=False)
 st.caption("One assessment across email text, sender and headers, sender domain, URLs, and static website signals.")
 
-
 with st.sidebar:
     st.subheader("Analysis flow")
     st.image(
@@ -24,7 +23,6 @@ with st.sidebar:
         width="stretch",
         alt="Research flowchart for the six-phase phishing email analysis pipeline",
     )
-    
 
 mode = st.segmented_control("Email input", ["Paste email", "Upload .eml or .txt"], default="Paste email")
 raw_email = ""
@@ -76,8 +74,7 @@ if result:
         st.warning("Suspicious signals were detected. Review the component evidence before acting.")
     elif result["classification"] == "insufficient_evidence":
         st.warning("There was not enough successfully evaluated evidence to score this email.")
-    else:
-        
+
     st.subheader("Component results")
     for name, component in result["components"].items():
         status = component["status"].replace("_", " ").title()
@@ -96,7 +93,7 @@ if result:
         st.markdown("**URLs found**")
         for url in result["extracted_urls"]:
             st.code(url, language=None)
-    
+
     st.download_button(
         "Download assessment JSON",
         json.dumps(result, indent=2, ensure_ascii=False),
