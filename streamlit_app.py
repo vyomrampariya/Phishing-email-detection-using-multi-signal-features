@@ -12,8 +12,6 @@ sys.path.insert(0, str(ROOT))
 from phishing_engine import WordPoolModel, analyze_email
 
 st.set_page_config(page_title="VYOM | Phishing Email Analysis", page_icon=":material/shield:", layout="wide")
-st.title("Email phishing assessment", anchor=False)
-st.caption("One assessment across email text, sender and headers, sender domain, URLs, and static website signals.")
 
 with st.sidebar:
     st.subheader("Analysis flow")
@@ -100,3 +98,5 @@ if result:
         file_name="email_assessment.json",
         mime="application/json",
     )
+
+
