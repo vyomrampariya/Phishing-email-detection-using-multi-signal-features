@@ -1,0 +1,11 @@
+weights:
+  word_pool: 0.30
+  sender_header: 0.20
+  temporary_email: 0.10
+  url_analysis: 0.25
+  website_analysis: 0.15
+thresholds:
+  suspicious: 0.40
+  high_risk: 0.70
+url_aggregation: maximum
+website_retrieval: disabled
