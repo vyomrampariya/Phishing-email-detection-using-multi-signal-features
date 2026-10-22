@@ -1,0 +1,32 @@
+Return-Path: <orders@northwindstore.com>
+Received: from mail.northwindstore.com (mail.northwindstore.com [203.0.113.25])
+	by mx.example.org with ESMTPS id 4f8a1c2d for <priya.sharma@example.org>;
+	Mon, 12 Oct 2026 09:14:30 +0530
+Authentication-Results: mx.example.org; spf=pass smtp.mailfrom=northwindstore.com; dkim=pass header.d=northwindstore.com; dmarc=pass header.from=northwindstore.com
+From: "Northwind Store Orders" <orders@northwindstore.com>
+Reply-To: "Northwind Store Support" <support@northwindstore.com>
+To: "Priya Sharma" <priya.sharma@example.org>
+Date: Mon, 12 Oct 2026 09:14:22 +0530
+Message-ID: <20261012091422.8841@mail.northwindstore.com>
+Subject: Your order #NW-48213 has shipped
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Priya,
+
+Good news - your order #NW-48213 has shipped and is on its way.
+
+Carrier: BlueDart Express
+Tracking number: BD7731902245
+Estimated delivery: Thursday, 15 October 2026
+
+You can follow your parcel any time here:
+https://www.northwindstore.com/track/NW-48213
+
+If you have questions about your delivery, just reply to this email.
+
+Thank you for shopping with us.
+
+Northwind Store Customer Care
+12 Market Road, Pune, India

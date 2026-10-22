@@ -1,0 +1,41 @@
+weights:
+  word_pool: 0.25
+  sender_header: 0.15
+  temporary_email: 0.10
+  url_analysis: 0.20
+  website_analysis: 0.20
+  attachment_analysis: 0.10
+thresholds:
+  suspicious: 0.30
+  phishy: 0.60
+# Human Review gate: coverage < 0.60 OR fewer than 4 usable components OR
+# evidence_consistency.status == insufficient_evidence -> verdict "Human Review".
+minimum_evidence_coverage: 0.60
+minimum_eligible_components: 4
+risk_indicators:
+  cap: 0.55
+  weights:
+    brand_impersonation: 0.15
+    misspelled_brand_domain: 0.25
+    brand_claim_mismatch: 0.15
+    reply_to_lookalike: 0.10
+    sender_identity_mismatch: 0.10
+    link_obfuscation: 0.10
+    multi_risk_links: 0.05
+    credential_token_in_link: 0.05
+    disposable_sender: 0.10
+    pressure_language: 0.05
+url_aggregation: maximum
+website_retrieval:
+  enabled: true
+  max_urls: 8
+  connect_timeout_seconds: 3.0
+  read_timeout_seconds: 4.0
+  total_timeout_seconds: 12.0
+  max_response_bytes: 1048576
+  max_redirects: 4
+website_weights:
+  domain: 0.30
+  brand: 0.25
+  language: 0.20
+  credentials: 0.25

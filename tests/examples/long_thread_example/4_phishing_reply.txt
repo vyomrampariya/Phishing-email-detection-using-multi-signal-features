@@ -1,0 +1,35 @@
+Return-Path: <billing@northwindstore-billing.com>
+Received: from mail.nwstore-mailer.top (unknown [185.220.101.77])
+	by mx.example.org with ESMTP id c71d90ee for <priya.sharma@example.org>;
+	Thu, 22 Oct 2026 02:41:09 +0530
+Authentication-Results: mx.example.org; spf=fail smtp.mailfrom=northwindstore-billing.com; dkim=none; dmarc=fail header.from=northwindstore-billing.com
+From: "Northwind Store Orders" <orders@northwindstore-billing.com>
+Reply-To: "Northwind Payments" <payments.desk@secure-nwpay.net>
+To: "Priya Sharma" <priya.sharma@example.org>
+Date: Thu, 22 Oct 2026 02:40:58 +0530
+Message-ID: <7d41e0b2.19f3@mail.nwstore-mailer.top>
+In-Reply-To: <CAK7f3Hq2Yp9w@mail.example.org>
+References: <20261012091422.8841@mail.northwindstore.com> <CAK7f3Hq2Yp9w@mail.example.org>
+Subject: Re: Your order #NW-48213 has shipped - URGENT: payment verification required
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+URGENT: Your payment for order #NW-48213 could not be verified and your
+delivery has been put ON HOLD. Immediate action is required.
+
+You must verify your card and billing details within 24 hours or your order
+will be cancelled and your account suspended.
+
+Verify your payment now:
+https://www.northwlnd-store.com/verify-payment/NW-48213
+
+If the page does not open, use our secure short link:
+https://bit.ly/3xNwPay
+
+Please have your card number, expiry date and CVV ready. Failure to confirm
+immediately will result in a penalty fee and loss of your order.
+
+Northwind Billing Department

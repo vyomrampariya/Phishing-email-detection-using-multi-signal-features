@@ -1,0 +1,884 @@
+{
+ "10minutemail.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "guerrillamail.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "mailinator.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "yopmail.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "tempmail.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "temp-mail.org": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "throwawaymail.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "getnada.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "sharklasers.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "grr.la": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "dispostable.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "maildrop.cc": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "mintemail.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "fakeinbox.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "33mail.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "mailinator.net": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "mailinator2.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "guerrillamail.net": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "guerrillamail.org": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "guerrillamail.biz": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "guerrillamail.de": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "guerrillamailblock.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "spam4.me": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "pokemail.net": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "10minutemail.net": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "10minutemail.org": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "20minutemail.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "30minutemail.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "tempmail.net": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "temp-mail.io": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "tempmailo.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "tempail.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "tempr.email": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "tempinbox.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "throwam.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "trashmail.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "trashmail.net": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "trashmail.de": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "trash-mail.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "wegwerfmail.de": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "wegwerfmail.net": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "wegwerfmail.org": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "mailnesia.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "mailcatch.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "discard.email": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "discardmail.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "discardmail.de": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "fakemail.net": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "fake-mail.net": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "nada.email": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "nadamail.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "mohmal.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "burnermail.io": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "getairmail.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "anonbox.net": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "anonymbox.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "mytemp.email": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "mytrashmail.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "emailondeck.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "easytrashmail.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "einrot.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "spamgourmet.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "spamgourmet.net": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "spambox.us": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "spamex.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "spamfree24.org": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "spamherelots.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "spamhereplease.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "moakt.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "moakt.cc": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "tmail.ws": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "tmailinator.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "yopmail.fr": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "yopmail.net": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "cool.fr.nf": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "jetable.org": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "jetable.net": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "mailforspam.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "mailnull.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "mailtemp.info": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "mailtothis.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "mt2015.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "nowmymail.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "objectmail.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "oneoffemail.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "owlpic.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "receiveee.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "rcpt.at": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "safetymail.info": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "selfdestructingmail.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "sendspamhere.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "sogetthis.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "spoofmail.de": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "superrito.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "suremail.info": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "teleworm.us": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "temporary-mail.net": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "temporaryemail.net": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "temporaryforwarding.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "thankyou2010.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "trbvm.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "trillianpro.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "twinmail.de": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "tyldd.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "uggsrock.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "veryrealemail.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "vomoto.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "webemail.me": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "wh4f.org": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "whyspam.me": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "wilemail.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "willhackforfood.biz": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "xagloo.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "xemaps.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "xents.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "xmaily.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "xoxy.net": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "yepmail.net": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "yuurok.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "zehnminutenmail.de": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "zippymail.info": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "zoemail.org": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "dropmail.me": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "emltmp.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "1secmail.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "1secmail.net": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "1secmail.org": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "inboxbear.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "inboxkitten.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "luxusmail.org": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "mailbox.in.ua": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "mailpoof.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "mailsac.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "minuteinbox.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "tempmailaddress.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "temp-mail.ru": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "tmpmail.net": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "tmpmail.org": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "gettempmail.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "cuvox.de": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "armyspy.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "dayrep.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "einrot.de": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "fleckens.hu": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "gustr.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "jourrapide.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ },
+ "rhyta.com": {
+  "source_dataset": [
+   "bundled_community_seed_list"
+  ],
+  "notes": "Locally bundled seed; verify before production use."
+ }
+}

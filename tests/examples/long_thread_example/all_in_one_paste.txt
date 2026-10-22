@@ -1,0 +1,119 @@
+Return-Path: <orders@northwindstore.com>
+Received: from mail.northwindstore.com (mail.northwindstore.com [203.0.113.25])
+	by mx.example.org with ESMTPS id 4f8a1c2d for <priya.sharma@example.org>;
+	Mon, 12 Oct 2026 09:14:30 +0530
+Authentication-Results: mx.example.org; spf=pass smtp.mailfrom=northwindstore.com; dkim=pass header.d=northwindstore.com; dmarc=pass header.from=northwindstore.com
+From: "Northwind Store Orders" <orders@northwindstore.com>
+Reply-To: "Northwind Store Support" <support@northwindstore.com>
+To: "Priya Sharma" <priya.sharma@example.org>
+Date: Mon, 12 Oct 2026 09:14:22 +0530
+Message-ID: <20261012091422.8841@mail.northwindstore.com>
+Subject: Your order #NW-48213 has shipped
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Priya,
+
+Good news - your order #NW-48213 has shipped and is on its way.
+
+Carrier: BlueDart Express
+Tracking number: BD7731902245
+Estimated delivery: Thursday, 15 October 2026
+
+You can follow your parcel any time here:
+https://www.northwindstore.com/track/NW-48213
+
+If you have questions about your delivery, just reply to this email.
+
+Thank you for shopping with us.
+
+Northwind Store Customer Care
+12 Market Road, Pune, India
+
+=====
+Return-Path: <priya.sharma@example.org>
+Received: from mail-wr1.example.org (mail-wr1.example.org [198.51.100.40])
+	by mx.northwindstore.com with ESMTPS id 9b2e77a1 for <orders@northwindstore.com>;
+	Mon, 12 Oct 2026 11:02:51 +0530
+Authentication-Results: mx.northwindstore.com; spf=pass smtp.mailfrom=example.org; dkim=pass header.d=example.org; dmarc=pass header.from=example.org
+From: "Priya Sharma" <priya.sharma@example.org>
+To: "Northwind Store Orders" <orders@northwindstore.com>
+Date: Mon, 12 Oct 2026 11:02:44 +0530
+Message-ID: <CAK7f3Hq2Yp9w@mail.example.org>
+In-Reply-To: <20261012091422.8841@mail.northwindstore.com>
+References: <20261012091422.8841@mail.northwindstore.com>
+Subject: Re: Your order #NW-48213 has shipped
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi,
+
+Thanks for the update. Will someone be home to sign for it, or can the
+courier leave it with the security desk? I am usually out until 6 pm.
+
+Regards,
+Priya
+
+=====
+Return-Path: <support@northwindstore.com>
+Received: from mail.northwindstore.com (mail.northwindstore.com [203.0.113.25])
+	by mx.example.org with ESMTPS id 77aa10bc for <priya.sharma@example.org>;
+	Mon, 12 Oct 2026 14:21:10 +0530
+Authentication-Results: mx.example.org; spf=pass smtp.mailfrom=northwindstore.com; dkim=pass header.d=northwindstore.com; dmarc=pass header.from=northwindstore.com
+From: "Northwind Store Support" <support@northwindstore.com>
+To: "Priya Sharma" <priya.sharma@example.org>
+Date: Mon, 12 Oct 2026 14:20:58 +0530
+Message-ID: <20261012142058.1932@mail.northwindstore.com>
+In-Reply-To: <CAK7f3Hq2Yp9w@mail.example.org>
+References: <20261012091422.8841@mail.northwindstore.com> <CAK7f3Hq2Yp9w@mail.example.org>
+Subject: Re: Your order #NW-48213 has shipped
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Priya,
+
+Yes, BlueDart can leave the parcel with the security desk if nobody is home.
+You will get an SMS once it has been delivered.
+
+Northwind Store Customer Care
+
+=====
+Return-Path: <billing@northwindstore-billing.com>
+Received: from mail.nwstore-mailer.top (unknown [185.220.101.77])
+	by mx.example.org with ESMTP id c71d90ee for <priya.sharma@example.org>;
+	Thu, 22 Oct 2026 02:41:09 +0530
+Authentication-Results: mx.example.org; spf=fail smtp.mailfrom=northwindstore-billing.com; dkim=none; dmarc=fail header.from=northwindstore-billing.com
+From: "Northwind Store Orders" <orders@northwindstore-billing.com>
+Reply-To: "Northwind Payments" <payments.desk@secure-nwpay.net>
+To: "Priya Sharma" <priya.sharma@example.org>
+Date: Thu, 22 Oct 2026 02:40:58 +0530
+Message-ID: <7d41e0b2.19f3@mail.nwstore-mailer.top>
+In-Reply-To: <CAK7f3Hq2Yp9w@mail.example.org>
+References: <20261012091422.8841@mail.northwindstore.com> <CAK7f3Hq2Yp9w@mail.example.org>
+Subject: Re: Your order #NW-48213 has shipped - URGENT: payment verification required
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+URGENT: Your payment for order #NW-48213 could not be verified and your
+delivery has been put ON HOLD. Immediate action is required.
+
+You must verify your card and billing details within 24 hours or your order
+will be cancelled and your account suspended.
+
+Verify your payment now:
+https://www.northwlnd-store.com/verify-payment/NW-48213
+
+If the page does not open, use our secure short link:
+https://bit.ly/3xNwPay
+
+Please have your card number, expiry date and CVV ready. Failure to confirm
+immediately will result in a penalty fee and loss of your order.
+
+Northwind Billing Department
+

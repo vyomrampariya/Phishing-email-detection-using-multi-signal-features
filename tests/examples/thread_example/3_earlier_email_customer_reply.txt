@@ -1,0 +1,23 @@
+Return-Path: <priya.sharma@example.org>
+Received: from mail-wr1.example.org (mail-wr1.example.org [198.51.100.40])
+	by mx.northwindstore.com with ESMTPS id 9b2e77a1 for <orders@northwindstore.com>;
+	Mon, 12 Oct 2026 11:02:51 +0530
+Authentication-Results: mx.northwindstore.com; spf=pass smtp.mailfrom=example.org; dkim=pass header.d=example.org; dmarc=pass header.from=example.org
+From: "Priya Sharma" <priya.sharma@example.org>
+To: "Northwind Store Orders" <orders@northwindstore.com>
+Date: Mon, 12 Oct 2026 11:02:44 +0530
+Message-ID: <CAK7f3Hq2Yp9w@mail.example.org>
+In-Reply-To: <20261012091422.8841@mail.northwindstore.com>
+References: <20261012091422.8841@mail.northwindstore.com>
+Subject: Re: Your order #NW-48213 has shipped
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi,
+
+Thanks for the update. Will someone be home to sign for it, or can the
+courier leave it with the security desk? I am usually out until 6 pm.
+
+Regards,
+Priya
