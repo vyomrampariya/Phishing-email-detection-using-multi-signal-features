@@ -1,9 +1,0 @@
-model_version: "4.0.0"
-weights: {L: 0.15, H: 0.20, E: 0.20, D: 0.20, R: 0.15, T: 0.10}
-aggregation: {max_weight: 0.70, mean_weight: 0.30}
-missing_policy: renormalize
-minimum_available_weight: 0.50
-protected_brands: [paypal, microsoft, google, apple, amazon, netflix]
-trusted_domains: [paypal.com, microsoft.com, google.com, apple.com, amazon.com, netflix.com]
-shorteners: [bit.ly, tinyurl.com, t.co, is.gd, ow.ly, goo.gl, buff.ly]
-redirect_parameters: [url, uri, redirect, redirect_url, next, target, dest, destination, continue, return, returnurl]
